@@ -17,4 +17,9 @@ function Detail({ name, hobbies }) {
     );
 }
 
+/* const Detail = () => {
+    return 
+}
+*/
+
 export default Detail;
